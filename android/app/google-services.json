@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "327053328438",
+    "project_id": "svnapp-18de1",
+    "storage_bucket": "svnapp-18de1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327053328438:android:7edc49c1399767ef29d897",
+        "android_client_info": {
+          "package_name": "com.example.svn_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327053328438-mdbpki9ou9g6933dcansu5snr99jgv0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRgkwn4j4AVlhdtP2n1LFsD8AgmeKLk1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327053328438-mdbpki9ou9g6933dcansu5snr99jgv0q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "327053328438-u0h1rp0bju332np98fja1ou1403kockq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.svnApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327053328438:android:8a37d033aa2c5bdb29d897",
+        "android_client_info": {
+          "package_name": "com.example.todolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327053328438-mdbpki9ou9g6933dcansu5snr99jgv0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRgkwn4j4AVlhdtP2n1LFsD8AgmeKLk1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327053328438-mdbpki9ou9g6933dcansu5snr99jgv0q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "327053328438-u0h1rp0bju332np98fja1ou1403kockq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.svnApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
